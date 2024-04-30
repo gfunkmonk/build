@@ -11,6 +11,4 @@ jobs:
           armbian_release:   "jammy"                        # userspace
           armbian_target:    "build"                        # build=image, kernel=kernel
           armbian_board:     "rpi4b"                        # build target
-          armbian_ui:        "minimal"
-          armbian_kernel_branch: "current"
           
